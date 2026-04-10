@@ -1,0 +1,5 @@
+{
+  "name": "lum.io",
+  "description": "On-demand errand runners for personal shopping, pickup, delivery, and more.",
+  "requestFramePermissions": ["geolocation"]
+}
